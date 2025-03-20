@@ -1,5 +1,5 @@
 
-Welcome to yeap finance – The Future of Decentralized Lending on Aptos
+Welcome to **Yeap Finance** – The Future of Decentralized Lending on **Aptos**
 
 At yeap finance, we are redefining the way decentralized finance works on the Aptos blockchain.
 
@@ -13,9 +13,11 @@ Key Features of yeap finance:
 - Efficient and Scalable: Powered by the Aptos Move chain, YEAP ensures rapid transactions and minimal gas fees, making DeFi more accessible to everyone.
 - Secure & Transparent: With decentralized smart contracts and robust security protocols, YEAP offers a trustworthy platform where users can transact with confidence.
 - Seamless User Experience: YEAP provides an intuitive and easy-to-use interface for both novice and experienced users, ensuring a smooth and user-friendly experience.
-- Flexible Lending and Borrowing: Borrow assets at competitive rates and earn passive income by supplying liquidity. Enjoy a variety of supported assets and interest rate options tailored to your needs.
+- Flexible Lending and Customlized Borrowing: Borrow assets at competitive rates and earn passive income by supplying liquidity. Enjoy a variety of supported assets and interest rate options tailored to your needs.
 - Decentralized Governance: YEAP is built with community-driven principles in mind. Governance is decentralized, ensuring that all participants have a voice in shaping the platform’s future.
 
 Learn more from our [docs](https://github.com/yeap-fi/docs)
+
+We're looking for parnters who are passionate and high-skilled on dapps and smart contracts.
 
 Join us at yeap finance, where we are building the future of finance—faster, more secure, and more efficient.
