@@ -16,6 +16,6 @@ Key Features of yeap finance:
 - Flexible Lending and Borrowing: Borrow assets at competitive rates and earn passive income by supplying liquidity. Enjoy a variety of supported assets and interest rate options tailored to your needs.
 - Decentralized Governance: YEAP is built with community-driven principles in mind. Governance is decentralized, ensuring that all participants have a voice in shaping the platform’s future.
 
-Learn more from our [whitepaper](./whitepaper.md)
+Learn more from our [docs](https://github.com/yeap-fi/docs)
 
 Join us at yeap finance, where we are building the future of finance—faster, more secure, and more efficient.
