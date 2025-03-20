@@ -17,4 +17,5 @@ Key Features of yeap finance:
 - Decentralized Governance: YEAP is built with community-driven principles in mind. Governance is decentralized, ensuring that all participants have a voice in shaping the platform’s future.
 
 Learn more from our [whitepaper](./whitepaper.md)
+
 Join us at yeap finance, where we are building the future of finance—faster, more secure, and more efficient.
