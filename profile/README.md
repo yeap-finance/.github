@@ -18,6 +18,6 @@ Key Features of yeap finance:
 
 Learn more from our [docs](https://github.com/yeap-fi/docs).
 
-We're looking for parnters who are passionate and high-skilled on dapps and smart contracts.
+We're looking for partners who are passionate and high-skilled on dapps and smart contracts.
 
 Join us at yeap finance, where we are building the future of finance—faster, more secure, and more efficient.
